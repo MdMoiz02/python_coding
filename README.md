@@ -1,2 +1,3 @@
 # python_coding
-this is my first code in github
+This is my first code in github.
+In this,i'm going write codes related to the python language that i am learning in the my intenship.
